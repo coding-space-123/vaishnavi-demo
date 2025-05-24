@@ -1,2 +1,3 @@
 # vaishnavi-demo
-This is my second repos
+This is my second git repository.
+Author name:Vaishnavi Gupta
